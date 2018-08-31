@@ -1,0 +1,15 @@
+c:\users\marten\documents\visual studio 2017\Projects\CharacterGen\bin\Debug\CharacterGen.exe.config
+c:\users\marten\documents\visual studio 2017\Projects\CharacterGen\bin\Debug\CharacterGen.exe
+c:\users\marten\documents\visual studio 2017\Projects\CharacterGen\bin\Debug\CharacterGen.pdb
+c:\users\marten\documents\visual studio 2017\Projects\CharacterGen\obj\Debug\CharacterGen.csprojAssemblyReference.cache
+c:\users\marten\documents\visual studio 2017\Projects\CharacterGen\obj\Debug\MainWindow.g.cs
+c:\users\marten\documents\visual studio 2017\Projects\CharacterGen\obj\Debug\App.g.cs
+c:\users\marten\documents\visual studio 2017\Projects\CharacterGen\obj\Debug\CharacterGen_MarkupCompile.cache
+c:\users\marten\documents\visual studio 2017\Projects\CharacterGen\obj\Debug\CharacterGen_MarkupCompile.lref
+c:\users\marten\documents\visual studio 2017\Projects\CharacterGen\obj\Debug\MainWindow.baml
+c:\users\marten\documents\visual studio 2017\Projects\CharacterGen\obj\Debug\CharacterGen.g.resources
+c:\users\marten\documents\visual studio 2017\Projects\CharacterGen\obj\Debug\CharacterGen.Properties.Resources.resources
+c:\users\marten\documents\visual studio 2017\Projects\CharacterGen\obj\Debug\CharacterGen.csproj.GenerateResource.cache
+c:\users\marten\documents\visual studio 2017\Projects\CharacterGen\obj\Debug\CharacterGen.csproj.CoreCompileInputs.cache
+c:\users\marten\documents\visual studio 2017\Projects\CharacterGen\obj\Debug\CharacterGen.exe
+c:\users\marten\documents\visual studio 2017\Projects\CharacterGen\obj\Debug\CharacterGen.pdb
